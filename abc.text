@@ -4,6 +4,8 @@ using namespace std;
 int gcd(int a,int b)
 {
 	//your code goes here
+	int a __(a,b);
+	return a;
 }
 int main() 
 {
